@@ -1,0 +1,7 @@
+/build*/
+/logs/
+*.log
+.vscode/
+.idea/
+*.zip
+*.tar.gz
